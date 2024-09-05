@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Yelp Camp",
     des: "Explore and review campgrounds worldwide with this interactive clusters. Featuring full-stack application with express and authorization with passport.js",
-    img: "/Yelpcamp.png",
+    img: "/public/Yelpcamp.png",
     iconLists: ["/javascript.svg", "/bootstrap.svg", "/nodejs.svg", "/mongo.svg"],
     link: "https://github.com/RoJack33/YelpCamp/tree/leaflet-implementation",
   },
