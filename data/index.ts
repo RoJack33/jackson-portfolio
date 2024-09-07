@@ -44,7 +44,7 @@ export const gridItems = [
     imgClassName: "",
     titleClassName: "justify-start",
     img: "https://rojack33.github.io/jackson-portfolio/grid.svg",
-    spareImg: "/b4.svg",
+    spareImg: "https://rojack33.github.io/jackson-portfolio/b4.svg",
   },
 
   {
@@ -74,32 +74,32 @@ export const projects = [
     id: 1,
     title: "Yelp Camp",
     des: "Explore and review campgrounds worldwide with this interactive clusters. Featuring full-stack application with express and authorization with passport.js",
-    img: "/Yelpcamp.png",
-    iconLists: ["/javascript.svg", "/bootstrap.svg", "/nodejs.svg", "/mongo.svg"],
+    img: "https://rojack33.github.io/jackson-portfolio/Yelpcamp.png",
+    iconLists: ["https://rojack33.github.io/jackson-portfolio/javascript.svg", "https://rojack33.github.io/jackson-portfolio/bootstrap.svg", "https://rojack33.github.io/jackson-portfolio/nodejs.svg", "https://rojack33.github.io/jackson-portfolio/mongo.svg"],
     link: "https://github.com/RoJack33/YelpCamp/tree/leaflet-implementation",
   },
   {
     id: 2,
     title: "Nike Home Page",
     des: "Recreated the Nike website home page, combining react and tailwinds CSS...",
-    img: "/Nike.png",
-    iconLists: ["/re.svg", "/tail.svg"],
+    img: "https://rojack33.github.io/jackson-portfolio/Nike.png",
+    iconLists: ["https://rojack33.github.io/jackson-portfolio/re.svg", "https://rojack33.github.io/jackson-portfolio/tail.svg"],
     link: "https://github.com/RoJack33/Nike-Home-Page-Tailwind",
   },
   {
     id: 3,
     title: "Burger Order App",
     des: "A Software-as-a-Service app to satisfy your crave, with optimized state management.",
-    img: "/Burger-Order-App.png",
-    iconLists: ["/re.svg", "/tail.svg", "/redux.svg"],
+    img: "https://rojack33.github.io/jackson-portfolio/Burger-Order-App.png",
+    iconLists: ["https://rojack33.github.io/jackson-portfolio/re.svg", "https://rojack33.github.io/jackson-portfolio/tail.svg", "https://rojack33.github.io/jackson-portfolio/redux.svg"],
     link: "https://github.com/RoJack33/Burger-Order-App",
   },
   {
     id: 4,
     title: "Events Viewing",
     des: "Featuring upcoming events, connecting people by creating, editing and deleting events..",
-    img: "/Events-Viewing.png",
-    iconLists: ["/re.svg", "/tail.svg", "/nodejs.svg", "/jwt.svg"],
+    img: "https://rojack33.github.io/jackson-portfolio/Events-Viewing.png",
+    iconLists: ["https://rojack33.github.io/jackson-portfolio/re.svg", "https://rojack33.github.io/jackson-portfolio/tail.svg", "https://rojack33.github.io/jackson-portfolio/nodejs.svg", "https://rojack33.github.io/jackson-portfolio/jwt.svg"],
     link: "https://github.com/RoJack33/EventsViewing",
   },
 ];
@@ -129,31 +129,31 @@ export const companies = [
   {
     id: 1,
     name: "Cloudinary",
-    img: "/cloud.svg",
+    img: "https://rojack33.github.io/jackson-portfolio/cloud.svg",
     nameImg: "/",
   },
   {
     id: 2,
     name: "NodeJS",
-    img: "/nodejs.svg",
+    img: "https://rojack33.github.io/jackson-portfolio/nodejs.svg",
     nameImg: "/",
   },
   {
     id: 3,
     name: "MongoDB",
-    img: "/mongo.svg",
+    img: "https://rojack33.github.io/jackson-portfolio/mongo.svg",
     nameImg: "/h",
   },
   {
     id: 4,
     name: "Redux",
-    img: "/redux.svg",
+    img: "https://rojack33.github.io/jackson-portfolio/redux.svg",
     nameImg: "/",
   },
   {
     id: 5,
     name: "Three.JS",
-    img: "/three.svg",
+    img: "https://rojack33.github.io/jackson-portfolio/three.svg",
     nameImg: "/d",
   },
 ];
@@ -164,33 +164,33 @@ export const workExperience = [
     title: "Executive Engineer - Surbana Jurong",
     desc: "Execute the projects independently, pursuing new opportunity by comparing market competitively.",
     className: "md:col-span-2",
-    thumbnail: "/building.svg",
+    thumbnail: "https://rojack33.github.io/jackson-portfolio/building.svg",
   },
   {
     id: 2,
     title: "Project Engineer - Asia Piling Co",
     desc: "Oversee and coordinate construction activities, collaborative with suppliers.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/civil.svg",
+    thumbnail: "https://rojack33.github.io/jackson-portfolio/civil.svg",
   },
   {
     id: 3,
     title: "Civil Engineer - OneSmart Engineering",
     desc: "Designed and developed construction drawing for infrastructure.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/train.svg",
+    thumbnail: "https://rojack33.github.io/jackson-portfolio/train.svg",
   },
 ];
 
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "https://rojack33.github.io/jackson-portfolio/git.svg",
     link: "https://github.com/RoJack33",
   },
   {
     id: 2,
-    img: "/link.svg",
+    img: "https://rojack33.github.io/jackson-portfolio/link.svg",
     link: "https://www.linkedin.com/in/jackson-lau-99190030a/",
   },
 ];
